@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1516872597 source:/home/niraj/Desktop/nirajdebug/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1516875240 source:/home/niraj/Desktop/nirajdebug/ab.c
+	<stdio.h>
+
